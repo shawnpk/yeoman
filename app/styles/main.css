@@ -1,0 +1,44 @@
+body {
+    background: #fafafa;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+.jumbotron {
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    background-color: #eee;
+    border-radius: 6px;
+    padding: 60px;
+    background: blue;
+    color: red;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    font-size: 60px;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.yellowLi {
+    background: yellow;
+    text-align: center;
+    height: 50px;
+    margin-top: 10px;
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 2em;
+    border: 1px solid black;
+    border-radius: 7px;
+}
